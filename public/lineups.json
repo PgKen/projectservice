@@ -1,0 +1,163 @@
+{
+    "api": {
+        "results": 2,
+        "lineUps": {
+            "germany": {
+                "formation": "3-4-3",
+                "coach": "Joachim Loew",
+                "startXI": [{
+                        "number": "",
+                        "player": "Manuel Neuer"
+                    },
+                    {
+                        "number": "",
+                        "player": "Mats Hummels"
+                    },
+                    {
+                        "number": "",
+                        "player": "Niklas Suele"
+                    },
+                    {
+                        "number": "",
+                        "player": "Antonio Rudiger"
+                    },
+                    {
+                        "number": "",
+                        "player": "Thilo Kehrer"
+                    },
+                    {
+                        "number": "",
+                        "player": "Toni Kroos"
+                    },
+                    {
+                        "number": "",
+                        "player": "Nico Schulz"
+                    },
+                    {
+                        "number": "",
+                        "player": "Joshua Kimmich"
+                    },
+                    {
+                        "number": "",
+                        "player": "Timo Werner"
+                    },
+                    {
+                        "number": "",
+                        "player": "Leroy Sane"
+                    },
+                    {
+                        "number": "",
+                        "player": "Serge Gnabry"
+                    }
+                ],
+                "substitutes": [{
+                        "number": "",
+                        "player": "Jonas Hector"
+                    },
+                    {
+                        "number": "",
+                        "player": "Matthias Ginter"
+                    },
+                    {
+                        "number": "",
+                        "player": "Leon Goretzka"
+                    },
+                    {
+                        "number": "",
+                        "player": "Julian Brandt"
+                    },
+                    {
+                        "number": "",
+                        "player": "Marco Reus"
+                    },
+                    {
+                        "number": "",
+                        "player": "Bernd Leno"
+                    },
+                    {
+                        "number": "",
+                        "player": "Thomas Mueller"
+                    }
+                ]
+            },
+            "netherlands": {
+                "formation": "4-3-3",
+                "coach": "Ronald Koeman",
+                "startXI": [{
+                        "number": "1",
+                        "player": "Jasper Cillessen"
+                    },
+                    {
+                        "number": "",
+                        "player": "Kenny Tete"
+                    },
+                    {
+                        "number": "",
+                        "player": "Matthijs De Ligt"
+                    },
+                    {
+                        "number": "",
+                        "player": "Virgil Van Dijk"
+                    },
+                    {
+                        "number": "5",
+                        "player": "Daley Blind"
+                    },
+                    {
+                        "number": "",
+                        "player": "Marten De Roon"
+                    },
+                    {
+                        "number": "",
+                        "player": "Frenkie De Jong"
+                    },
+                    {
+                        "number": "20",
+                        "player": "Georginio Wijnaldum"
+                    },
+                    {
+                        "number": "",
+                        "player": "Quincy Promes"
+                    },
+                    {
+                        "number": "21",
+                        "player": "Memphis Depay"
+                    },
+                    {
+                        "number": "",
+                        "player": "Ryan Babel"
+                    }
+                ],
+                "substitutes": [{
+                        "number": "",
+                        "player": "Denzel Dumfries"
+                    },
+                    {
+                        "number": "",
+                        "player": "Jeroen Zoet"
+                    },
+                    {
+                        "number": "3",
+                        "player": "Stefan De Vrij"
+                    },
+                    {
+                        "number": "",
+                        "player": "Nathan Ake"
+                    },
+                    {
+                        "number": "17",
+                        "player": "Kevin Strootman"
+                    },
+                    {
+                        "number": "",
+                        "player": "Donny Van De Beek"
+                    },
+                    {
+                        "number": "",
+                        "player": "Pablo Paulino Rosario"
+                    }
+                ]
+            }
+        }
+    }
+}

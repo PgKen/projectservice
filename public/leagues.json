@@ -1,0 +1,55 @@
+{
+    "api": {
+        "results": 4,
+        "leagues": {
+            "1": {
+                "league_id": "1",
+                "name": "2018 Russia World cup",
+                "country": "World",
+                "country_code": "",
+                "season": "2018",
+                "season_start": "2018-06-14",
+                "season_end": "2018-07-15",
+                "logo": "https://www.api-football.com/public/leagues/1.png",
+                "flag": "",
+                "standings": false
+            },
+            "2": {
+                "league_id": "2",
+                "name": "Premier League",
+                "country": "England",
+                "country_code": "GB",
+                "season": "2018",
+                "season_start": "2018-08-10",
+                "season_end": "2019-05-12",
+                "logo": "https://www.api-football.com/public/leagues/2.png",
+                "flag": "https://www.api-football.com/public/flags/gb.svg",
+                "standings": true
+            },
+            "3": {
+                "league_id": "3",
+                "name": "Championship",
+                "country": "England",
+                "country_code": "GB",
+                "season": "2018",
+                "season_start": "2018-08-03",
+                "season_end": "2019-05-05",
+                "logo": "https://www.api-football.com/public/leagues/3.png",
+                "flag": "https://www.api-football.com/public/flags/gb.svg",
+                "standings": true
+            },
+            "4": {
+                "league_id": "4",
+                "name": "Ligue 1",
+                "country": "France",
+                "country_code": "FR",
+                "season": "2018",
+                "season_start": "2018-08-11",
+                "season_end": "2019-05-25",
+                "logo": "https://www.api-football.com/public/leagues/4.svg",
+                "flag": "https://www.api-football.com/public/flags/fr.svg",
+                "standings": true
+            }
+        }
+    }
+}

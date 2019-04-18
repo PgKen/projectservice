@@ -1,0 +1,13 @@
+{
+    "api": {
+        "results": 1,
+        "teams": {
+            "33": {
+                "team_id": "33",
+                "name": "Manchester United",
+                "code": "MUN",
+                "logo": "https://www.api-football.com/public/teams/33.png"
+            }
+        }
+    }
+}

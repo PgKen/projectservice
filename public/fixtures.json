@@ -1,0 +1,70 @@
+{
+    "api": {
+        "results": 12,
+        "fixtures": {
+            "2839": {
+                "fixture_id": "2839",
+                "event_timestamp": "1534185000",
+                "event_date": "2018-08-13T18:30:00+00:00",
+                "league_id": "9",
+                "round": "2. Bundesliga - 2",
+                "homeTeam_id": "192",
+                "awayTeam_id": "182",
+                "homeTeam": "FC Koln",
+                "awayTeam": "Union Berlin",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "goalsHomeTeam": "1",
+                "goalsAwayTeam": "1",
+                "halftime_score": "1 - 0",
+                "final_score": "1 - 1",
+                "penalty": null,
+                "elapsed": "93",
+                "firstHalfStart": "1534185060",
+                "secondHalfStart": "1534188780"
+            },
+            "3439": {
+                "fixture_id": "3439",
+                "event_timestamp": "1534187700",
+                "event_date": "2018-08-13T19:15:00+00:00",
+                "league_id": "11",
+                "round": "Primeira Liga - 1",
+                "homeTeam_id": "216",
+                "awayTeam_id": "222",
+                "homeTeam": "Portimonense",
+                "awayTeam": "Boavista",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "goalsHomeTeam": "0",
+                "goalsAwayTeam": "2",
+                "halftime_score": "0 - 0",
+                "final_score": "0 - 2",
+                "penalty": null,
+                "elapsed": "94",
+                "firstHalfStart": "1534187760",
+                "secondHalfStart": "1534191480"
+            },
+            "4951": {
+                "fixture_id": "4951",
+                "event_timestamp": "1534179600",
+                "event_date": "2018-08-13T17:00:00+00:00",
+                "league_id": "15",
+                "round": "Eliteserien - 18",
+                "homeTeam_id": "328",
+                "awayTeam_id": "326",
+                "homeTeam": "Haugesund",
+                "awayTeam": "Valerenga",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "goalsHomeTeam": "1",
+                "goalsAwayTeam": "0",
+                "halftime_score": "0 - 0",
+                "final_score": "1 - 0",
+                "penalty": null,
+                "elapsed": "90",
+                "firstHalfStart": "1534179600",
+                "secondHalfStart": "1534183200"
+            }
+        }
+    }
+}
